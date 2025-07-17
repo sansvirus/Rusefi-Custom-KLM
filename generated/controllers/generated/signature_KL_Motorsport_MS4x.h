@@ -3,4 +3,4 @@
 //
 
 #define SIGNATURE_HASH 349888368
-#define TS_SIGNATURE "rusEFI main.2025.07.16.KL_Motorsport_MS4x.349888368"
+#define TS_SIGNATURE "rusEFI main.2025.07.17.KL_Motorsport_MS4x.349888368"
